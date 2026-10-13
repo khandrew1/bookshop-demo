@@ -14,7 +14,7 @@ const server = new MCPServer({
 // One explicit demo store per server process. Every caller shares it.
 // It resets on restart; it is neither account-scoped nor thread-scoped.
 const cart = new Map<string, number>();
-let preferences = { showDescriptions: true, compact: false };
+let preferences = { showDescriptions: false, compact: false };
 
 function readBookshopData(route = "/books"): BookshopData {
   const lines = books.flatMap((book) => {
