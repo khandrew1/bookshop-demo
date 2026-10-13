@@ -1,0 +1,24 @@
+{
+  "name": "little-bookshop",
+  "version": "1.0.1",
+  "description": "Browse twelve fictional books, search book mentions, and manage a shared demo cart. No checkout.",
+  "author": {
+    "name": "Andrew Khadder"
+  },
+  "interface": {
+    "displayName": "Little Bookshop",
+    "shortDescription": "Browse fictional books",
+    "longDescription": "An interactive fictional bookshop with a twelve-book catalog, book details, composer mentions, a shared demo cart, and appearance settings. Demo state resets on server restart. No purchases or payments.",
+    "developerName": "Andrew Khadder",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "Open the bookshop and help me find a book.",
+    "logo": "assets/book.png",
+    "composerIcon": "assets/book.png",
+    "logoDark": "assets/book-dark.png",
+    "composerIconDark": "assets/book-dark.png"
+  },
+  "mcpServers": "./mcp.json"
+}

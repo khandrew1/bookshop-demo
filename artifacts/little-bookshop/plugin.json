@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "little-bookshop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browse twelve fictional books, search book mentions, and manage a shared demo cart. No checkout.",
   "author": {
     "name": "Andrew Khadder"
@@ -18,10 +18,10 @@
           "Interactive"
         ],
         "defaultPrompt": "Open the bookshop and help me find a book.",
-        "logo": "./assets/book.png",
-        "composerIcon": "./assets/book.png",
-        "logoDark": "./assets/book-dark.png",
-        "composerIconDark": "./assets/book-dark.png"
+        "logo": "assets/book.png",
+        "composerIcon": "assets/book.png",
+        "logoDark": "assets/book-dark.png",
+        "composerIconDark": "assets/book-dark.png"
       }
     }
   }
