@@ -123,7 +123,7 @@ with `/products/<book-id>` encoded in `path`. The existing host deep-link adapte
 then opens that book's detail page. Selecting a mention inserts the book reference;
 opening that reference is handled by the desktop host. Search alone never launches
 the app or changes the cart. The plugin ID and marketplace in these URIs belong
-to this development installation; update them if installing the demo elsewhere.
+to the private Little Bookshop plugin; update them if installing the demo elsewhere.
 
 Composer insertion and automatic opening on selection are host behavior and must
 be checked in the desktop composer. The search tool cannot force that behavior.

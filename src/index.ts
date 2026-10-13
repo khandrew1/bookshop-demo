@@ -92,8 +92,8 @@ export const mentionBooks = server.mentions({
           const route = `/products/${book.id}`;
           return {
             type: "resource_link",
-            // The marketplace suffix identifies the existing development plugin.
-            uri: `codex://plugins/dev-6acd76f4789c8191945681a49d8aa6aa@created-by-me-remote/app/${openBookshop.name}?path=${encodeURIComponent(route)}`,
+            // The marketplace suffix identifies the private Plugin Creator installation.
+            uri: `codex://plugins/Plugin_95583b54609881919fea1bc4daf15bff@created-by-me-remote/app/${openBookshop.name}?path=${encodeURIComponent(route)}`,
             name: book.title,
             title: book.title,
             description: `${book.author} · ${book.genre}. ${book.description}`,

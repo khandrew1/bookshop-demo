@@ -1,0 +1,3 @@
+Generated with the built-in image generation tool.
+Light: A simple single open book, clean bold minimal illustration with crisp dark outlines and ivory pages, centered, generous padding, readable at small sizes. Transparent background, no lettering, extra objects, or watermark.
+Dark: Preserve the book geometry, ivory pages, centered placement and transparent background; change dark outlines to a light warm neutral outline for dark UI.
