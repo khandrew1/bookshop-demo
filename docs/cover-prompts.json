@@ -1,0 +1,56 @@
+[
+  {
+    "id": "the-lighthouse-post",
+    "file": "public/covers/the-lighthouse-post.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a lighthouse above teal waves sending glowing letters on the wind, cream sky, rust orange tower. Large beautifully legible cream or dark serif title at top, exact text \"The Lighthouse Post\". Small letter-spaced author at bottom, exact text \"Nora Bell\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "the-last-orchard",
+    "file": "public/covers/the-last-orchard.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a lone apple tree heavy with golden fruit in terracotta hills beneath a pale sun, warm olive green. Large beautifully legible cream or dark serif title at top, exact text \"The Last Orchard\". Small letter-spaced author at bottom, exact text \"Theo Moss\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "a-pocketful-of-tides",
+    "file": "public/covers/a-pocketful-of-tides.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a glass jar holding a tiny ocean and sailboat, pale seafoam and cobalt blue, coral accents. Large beautifully legible cream or dark serif title at top, exact text \"A Pocketful of Tides\". Small letter-spaced author at bottom, exact text \"Lena Shore\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "the-clockwork-forest",
+    "file": "public/covers/the-clockwork-forest.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a forest of stylized pine trees with a brass clockwork fox, dark pine green and gold. Large beautifully legible cream or dark serif title at top, exact text \"The Clockwork Forest\". Small letter-spaced author at bottom, exact text \"Felix Reed\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "letters-from-saturn",
+    "file": "public/covers/letters-from-saturn.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a ringed planet and a small envelope travelling between stars, aubergine purple, peach and pale gold. Large beautifully legible cream or dark serif title at top, exact text \"Letters from Saturn\". Small letter-spaced author at bottom, exact text \"Iris North\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "the-quiet-bakery",
+    "file": "public/covers/the-quiet-bakery.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a warmly lit bakery window, a cat, croissants and rising steam at early dawn, dusty rose and butter yellow. Large beautifully legible cream or dark serif title at top, exact text \"The Quiet Bakery\". Small letter-spaced author at bottom, exact text \"June Alder\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "a-house-for-the-rain",
+    "file": "public/covers/a-house-for-the-rain.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a tiny house beneath an oversized umbrella with blue rain all around, slate blue and mustard. Large beautifully legible cream or dark serif title at top, exact text \"A House for the Rain\". Small letter-spaced author at bottom, exact text \"Ada Fern\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "the-velvet-train",
+    "file": "public/covers/the-velvet-train.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a burgundy night train crossing an arched bridge under a crescent moon, deep plum and blush. Large beautifully legible cream or dark serif title at top, exact text \"The Velvet Train\". Small letter-spaced author at bottom, exact text \"Oscar Vale\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  },
+  {
+    "id": "the-museum-of-wind",
+    "file": "public/covers/the-museum-of-wind.png",
+    "tool": "Built-in image_gen",
+    "prompt": "Use case: illustration-story. Asset type: fictional paperback cover for Little Bookshop. Create ONE flat, front-facing portrait book cover, 2:3 aspect ratio, full bleed, no mockup or perspective. Elegant minimal geometric editorial illustration with subtle paper texture, a fine inset border, restrained palette and generous negative space. Subject: a museum archway containing fluttering ribbons leaves and a bird, ivory, turquoise and orange. Large beautifully legible cream or dark serif title at top, exact text \"The Museum of Wind\". Small letter-spaced author at bottom, exact text \"Cleo Hart\". No other text, logos or watermark. Polished independent publisher feel, crisp flat shapes, quiet storybook mood."
+  }
+]
